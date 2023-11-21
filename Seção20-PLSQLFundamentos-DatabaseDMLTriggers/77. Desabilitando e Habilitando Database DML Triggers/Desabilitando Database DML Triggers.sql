@@ -1,0 +1,1 @@
+alter trigger b_iud_valida_horario_employees_s_trg disable;

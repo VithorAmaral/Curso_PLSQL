@@ -1,0 +1,1 @@
+exec prc_update_salary2(10)

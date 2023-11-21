@@ -1,0 +1,1 @@
+FLASHBACK TABLE employees_copia TO BEFORE DROP;

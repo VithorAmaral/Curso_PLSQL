@@ -1,0 +1,1 @@
+alter procedure prc_insere_empregado compile;

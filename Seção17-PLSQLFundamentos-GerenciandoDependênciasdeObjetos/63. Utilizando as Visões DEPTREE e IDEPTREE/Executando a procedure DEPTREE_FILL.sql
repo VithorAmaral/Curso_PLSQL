@@ -1,0 +1,1 @@
+exec deptree_fill('TABLE','HR','EMPLOYEES')

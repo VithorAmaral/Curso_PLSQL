@@ -1,0 +1,1 @@
+alter package pck_empregados compile specification;

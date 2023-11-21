@@ -1,0 +1,3 @@
+DESC prc_insere_empregado
+
+desc fnc_consulta_salario_empregado

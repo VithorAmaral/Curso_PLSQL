@@ -1,0 +1,1 @@
+drop procedure prc_consulta_empregado;

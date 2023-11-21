@@ -1,0 +1,6 @@
+SELECT
+    *
+FROM
+    employees;
+
+ROLLBACK;

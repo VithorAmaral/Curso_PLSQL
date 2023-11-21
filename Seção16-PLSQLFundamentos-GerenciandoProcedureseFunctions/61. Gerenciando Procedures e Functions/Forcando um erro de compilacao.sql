@@ -1,0 +1,1 @@
+show erros function fnc_consulta_salario_empregado

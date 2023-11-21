@@ -1,0 +1,1 @@
+FLASHBACK TABLE vithor.employees_copia2 TO TIMESTAMP systimestamp - INTERVAL '5' MINUTE;

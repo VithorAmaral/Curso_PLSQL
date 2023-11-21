@@ -1,0 +1,1 @@
+alter function fnc_consulta_salario_empregado compile;
